@@ -9,8 +9,7 @@
        데이터를 받거나 동작이 바뀌어야 할 때
 
    3. UML Class Diagram :
-   
-     ![image](https://user-images.githubusercontent.com/93365714/230718966-1749b03e-4344-430a-bb03-5d95e87ab838.png)
+   ![image](https://user-images.githubusercontent.com/93365714/230718966-1749b03e-4344-430a-bb03-5d95e87ab838.png)
 
   
    4. 해당 패턴을 적용한 부분과 해당 패턴 적용 시의 이점 기술 : 
