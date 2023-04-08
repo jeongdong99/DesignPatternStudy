@@ -29,7 +29,7 @@
       • ImageProxy는 처음에 화면에 간단하게 메시지 표시하고 객체 로딩.
       • 로딩이 끝나면 ImageIcon에 위임해서 이미지 표시하는 프록시.
 
-    4-2. Protection Proxy
+   4-2. Protection Proxy
       • Proxy 객체에 대한 모든 메소드 호출 전달받는 InvocationHandler.
       • Main문에서 Proxy 클래스 생성하고 Proxy 객체 인스턴스 만듬.
       • Proxy 클래스는 자바에 의해 생성되고 Subject 인터페이스 구현.
