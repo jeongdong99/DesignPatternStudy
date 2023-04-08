@@ -23,13 +23,13 @@
 
   4. 해당 패턴을 적용한 부분 : 
     
-    4-1. Virtual Proxy
+   4-1. Virtual Proxy
       • 사용자 인터페이스에 이미지를 표시해주는 Swing의 Icon 인터페이스.
       • 이미지를 화면에 표시해주는 ImageIcon 클래스.
       • ImageProxy는 처음에 화면에 간단하게 메시지 표시하고 객체 로딩.
       • 로딩이 끝나면 ImageIcon에 위임해서 이미지 표시하는 프록시.
 
-     4-2. Protection Proxy
+    4-2. Protection Proxy
       • Proxy 객체에 대한 모든 메소드 호출 전달받는 InvocationHandler.
       • Main문에서 Proxy 클래스 생성하고 Proxy 객체 인스턴스 만듬.
       • Proxy 클래스는 자바에 의해 생성되고 Subject 인터페이스 구현.
@@ -59,7 +59,7 @@
       • 이미지 확보되면, repaint() 메소드 호출하여 화면 출력.
       • (기존 사진 출력이 안되므로 백종원 유튜브 사진 URL)
       
-      ![image](https://user-images.githubusercontent.com/93365714/230722075-b182591d-2b60-405f-86a5-a25d7a3fd463.png)
+   ![image](https://user-images.githubusercontent.com/93365714/230722075-b182591d-2b60-405f-86a5-a25d7a3fd463.png)
 
 
    6-2 Protection Proxy
@@ -70,4 +70,4 @@
       • 타인 권한으로 타인 정보 접근할 때 setInterest 호출하면 예외 처리.
       • 타인 권한으로 setHotOrNotRating 호출하면 예외없이 가능.
       
-      ![image](https://user-images.githubusercontent.com/93365714/230722082-10ddcad1-3cf5-44eb-a807-8dac467279f9.png)
+   ![image](https://user-images.githubusercontent.com/93365714/230722082-10ddcad1-3cf5-44eb-a807-8dac467279f9.png)
