@@ -35,8 +35,10 @@
        Model Duck은 기본적으로 날 수 없으나, 
        새로운 Flying Behavior인 FlyingRocketPowered를 생성하여
        setFlyBehavior해서 로켓을 타고 날 수 있음을 출력함
+       
        ![image](https://user-images.githubusercontent.com/93365714/230719614-615499ef-de68-4fd8-8e5e-c5de0beeacbc.png)
 6. 추가 실습코드 – Class Diagram
+
 ![image](https://user-images.githubusercontent.com/93365714/230719620-e49bc27b-c28d-4be7-a52c-0aca34bb477f.png)
   7. 추가 실습코드 – 패턴 적용부분 및 이점
       - Context에 해당하는 Class Player가 Strategy에 해당하는
@@ -53,5 +55,6 @@
      임꺽정은 ProbStartegy를 전략으로 사용하여
      가위 바위 보 게임을 하였다.
      홍길동의 전략이 임꺽정 전략보다 더 승리가 많았다.
+     
      ![image](https://user-images.githubusercontent.com/93365714/230719624-b482e3e6-0008-4a22-9b7c-9d3fb8eb8c21.png)
 
