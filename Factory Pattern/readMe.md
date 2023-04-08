@@ -20,13 +20,13 @@
 - type에 따라 만드는 피자가 다름.
 - ConcreteProduct인 cheese or veggie pizza를 만듬.
 
-  5. 해당 패턴 적용 시의 이점 :
+5. 해당 패턴 적용 시의 이점 :
      • 기존 코드를 수정하지 않고 새로운 객체를 생성 할 수 있음.
      • 구체적인 클래스에 의존하지 않아도 됌.
      • 코드가 간결해짐.
      • 서브클래스에 대한 정보를 은닉할 수 있음.
 
-   6. 해당 패턴이 적용된 실행결과 내용 설명
+6. 해당 패턴이 적용된 실행결과 내용 설명
      • NYPizzaStore랑 ChicagoPizzaStore가 있음.
      • Store에 따라, Store가 전달 받은 type이 cheese냐 veggie냐에 따라
        만들어지는 피자 스타일과 종류가 달라짐.
