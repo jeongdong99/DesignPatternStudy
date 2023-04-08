@@ -21,12 +21,12 @@
 - Concrete Decorator인 Mocha, Whip, Soy를
   조합해가며 기능을 추가하고 꾸밈.
   
-  5. 해당 패턴 적용 시의 이점 :
+5. 해당 패턴 적용 시의 이점 :
      • 기능 확장을 위해 서브클래스에 대한 유연한 대안을 제공함.
      • 런타임에 동작 수정이 가능함.
      • 객체에 동적으로 기능 추가가 간단함.
 
-   6. 해당 패턴이 적용된 실행결과 내용 설명
+ 6. 해당 패턴이 적용된 실행결과 내용 설명
      • Concrete Component인 Espresso, DarkRoast, HouseBlend를 만듬
      • 장식품인 Mocha, Soy, Whip을 Decorator 패턴을 적용하여
        기본 Component에 기능(가격 추가 + 출력문) 추가해줌.
