@@ -33,4 +33,4 @@
      • TeaHook과 CoffeeHook을 생성해 알고리즘이 구조화된 메소드 실행.
      • 서브 클래스에서 구현한 다른 형태의 동작은 다르게 작동 (Hook).
      
-     ![image](https://user-images.githubusercontent.com/93365714/230721691-39f49f4d-060a-42a3-80d9-4a13a3c5da60.png)
+ ![image](https://user-images.githubusercontent.com/93365714/230721691-39f49f4d-060a-42a3-80d9-4a13a3c5da60.png)
