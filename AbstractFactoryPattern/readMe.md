@@ -37,6 +37,5 @@
      • Store에 따라, ingredientFactory를 달리 설정함.
      • Store의 Style에 맞게 피자가 만들어짐.
      
-     
      ![image](https://user-images.githubusercontent.com/93365714/230719985-68cf89f0-db16-4d8d-aeb6-bf73503ec28f.png)
 
