@@ -1,4 +1,3 @@
-
 □ Observer Pattern
    1. 목적 : 어떤 객체의 상태가 변할 때 옵저버를 통해 시스템 내의 
      다른 연관된 객체들에게 상태 변화를 알 수 있도록 함
@@ -9,7 +8,9 @@
      - 하나의 객체가 변경되었을 때 연관된 모든 객체가 변경을 감지하고
        데이터를 받거나 동작이 바뀌어야 할 때
 
-   3. UML Class Diagram : 
+   3. UML Class Diagram :
+     ![image](https://user-images.githubusercontent.com/93365714/230718966-1749b03e-4344-430a-bb03-5d95e87ab838.png)
+
   
    4. 해당 패턴을 적용한 부분과 해당 패턴 적용 시의 이점 기술 : 
       - Subject에 해당하는 Class WeatherData가
@@ -25,8 +26,11 @@
    Observer 패턴 적용.
    weatherData의 정보를 set으로 교체 할 때 마다 연관된 행동들이 알아서
    연쇄적으로 바뀌어 동작함.
+   ![image](https://user-images.githubusercontent.com/93365714/230718984-ef4c15c6-081a-468c-9a4b-927f089b5333.png)
+
 
    6. 추가 실습코드 – Class Diagram
+![image](https://user-images.githubusercontent.com/93365714/230718994-122ae9c6-a4e2-42b5-8d7a-866693388f5c.png)
 
 
     7. 추가 실습코드 – 패턴 적용부분 및 이점
@@ -46,3 +50,6 @@
     등록된 observer들을 순서대로 update시키는 observer패턴을 적용.
     DigitObserver가 먼저 실행되고 그다음 GraphObserver가 실행되어
     먼저 숫자를 출력하고 그 후 숫자만큼 별이 출력됨.
+    
+    ![image](https://user-images.githubusercontent.com/93365714/230719013-f5527909-8bdd-45c7-9d17-4baae85029da.png)
+
