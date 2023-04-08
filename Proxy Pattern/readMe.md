@@ -12,11 +12,11 @@
   
  3. UML Class Diagram : 
    
-   3-1. Virtual Proxy
+ 3-1. Virtual Proxy
     
-    ![image](https://user-images.githubusercontent.com/93365714/230722035-99d99369-8a39-4665-a318-a9ed7f09f015.png)
+   ![image](https://user-images.githubusercontent.com/93365714/230722035-99d99369-8a39-4665-a318-a9ed7f09f015.png)
 
-   3-2. Protection Proxy
+ 3-2. Protection Proxy
    
    ![image](https://user-images.githubusercontent.com/93365714/230722044-ec2aabcc-68b8-4c21-aecf-8a64fdee3bc8.png)
 
