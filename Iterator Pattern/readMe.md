@@ -33,4 +33,4 @@
      • printMenu에서 interator을 전달 받아 반복 출력 실행.
      • 모든 메뉴 한번 출력하고, 채식 메뉴 한번 출력
      
-    ![image](https://user-images.githubusercontent.com/93365714/230721787-7f0af514-f2de-45f5-8722-17ff79560857.png)
+  ![image](https://user-images.githubusercontent.com/93365714/230721787-7f0af514-f2de-45f5-8722-17ff79560857.png)
