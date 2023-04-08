@@ -35,6 +35,6 @@
      • HasQuater상태에 turnCrank 실행, you turned 출력 후 상태 변환.
      • main문의 행동들이 상태에 따라 다르게 계속 행동되며 출력됨.
     
-    ![image](https://user-images.githubusercontent.com/93365714/230721964-c6eb1c5c-26d0-4488-a88e-ccadd48b5f2a.png)
+   ![image](https://user-images.githubusercontent.com/93365714/230721964-c6eb1c5c-26d0-4488-a88e-ccadd48b5f2a.png)
 
      
