@@ -9,6 +9,7 @@
        데이터를 받거나 동작이 바뀌어야 할 때
 
    3. UML Class Diagram :
+   
      ![image](https://user-images.githubusercontent.com/93365714/230718966-1749b03e-4344-430a-bb03-5d95e87ab838.png)
 
   
@@ -26,10 +27,12 @@
    Observer 패턴 적용.
    weatherData의 정보를 set으로 교체 할 때 마다 연관된 행동들이 알아서
    연쇄적으로 바뀌어 동작함.
+   
    ![image](https://user-images.githubusercontent.com/93365714/230718984-ef4c15c6-081a-468c-9a4b-927f089b5333.png)
 
 
    6. 추가 실습코드 – Class Diagram
+   
 ![image](https://user-images.githubusercontent.com/93365714/230718994-122ae9c6-a4e2-42b5-8d7a-866693388f5c.png)
 
 
