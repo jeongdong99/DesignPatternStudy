@@ -40,11 +40,11 @@
 6. 추가 실습코드 – Class Diagram
 
 ![image](https://user-images.githubusercontent.com/93365714/230719620-e49bc27b-c28d-4be7-a52c-0aca34bb477f.png)
-  7. 추가 실습코드 – 패턴 적용부분 및 이점
+ 
+7. 추가 실습코드 – 패턴 적용부분 및 이점
       - Context에 해당하는 Class Player가 Strategy에 해당하는
         Interface Strategy와 composition관계를 가짐으로써 
         Strategy 패턴을 적용하였음
-
       - Player가 가위 바위 보에서 이길 전략을 바꾸고 싶을 때, 생성자에서
         쉽게 바꾸면 되기 때문에 해당 패턴을 적용함으로써 교체가 용이함
 
