@@ -16,12 +16,12 @@
    4. 해당 패턴을 적용한 부분 :
    ![image](https://user-images.githubusercontent.com/93365714/230719935-6a1fd772-29d4-4214-8856-f9b3b45d24ba.png)
 
-![image](https://user-images.githubusercontent.com/93365714/230719936-b11d08ca-b173-47a5-aead-36325f4579db.png)
+   ![image](https://user-images.githubusercontent.com/93365714/230719936-b11d08ca-b173-47a5-aead-36325f4579db.png)
 
    
-- NYPizzaIngredientFactory를 따로 생성.
-- NY스타일의 재료들은 동일 피자 종류는 타입에 따라 다름.
-- Product인 cheese or veggie pizza등을 만듬.
+   - NYPizzaIngredientFactory를 따로 생성.
+   - NY스타일의 재료들은 동일 피자 종류는 타입에 따라 다름.
+   - Product인 cheese or veggie pizza등을 만듬.
 
  5. 해당 패턴 적용 시의 이점 :
      • 추상 팩토리 패턴은 실제 객체가 무엇인지 알지 못해도
@@ -33,5 +33,6 @@
      • NYPizzaStore랑 ChicagoPizzaStore가 있음.
      • Store에 따라, ingredientFactory를 달리 설정함.
      • Store의 Style에 맞게 피자가 만들어짐.
+     
      
      ![image](https://user-images.githubusercontent.com/93365714/230719950-409a65b3-e38a-4ad8-9bbf-79e3bce4f4ea.png)
