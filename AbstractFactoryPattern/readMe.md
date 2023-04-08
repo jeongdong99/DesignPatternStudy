@@ -14,6 +14,9 @@
    ![image](https://user-images.githubusercontent.com/93365714/230719905-cfdeafe2-f01e-4bef-9578-d7ed3b19d5c1.png)
 
    4. 해당 패턴을 적용한 부분 :
+
+
+
    ![image](https://user-images.githubusercontent.com/93365714/230719935-6a1fd772-29d4-4214-8856-f9b3b45d24ba.png)
 
    ![image](https://user-images.githubusercontent.com/93365714/230719936-b11d08ca-b173-47a5-aead-36325f4579db.png)
@@ -33,6 +36,5 @@
      • NYPizzaStore랑 ChicagoPizzaStore가 있음.
      • Store에 따라, ingredientFactory를 달리 설정함.
      • Store의 Style에 맞게 피자가 만들어짐.
-     
-     
-     ![image](https://user-images.githubusercontent.com/93365714/230719950-409a65b3-e38a-4ad8-9bbf-79e3bce4f4ea.png)
+     ![image](https://user-images.githubusercontent.com/93365714/230719985-68cf89f0-db16-4d8d-aeb6-bf73503ec28f.png)
+
