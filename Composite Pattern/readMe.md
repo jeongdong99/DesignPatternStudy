@@ -31,4 +31,4 @@
      • 각자 Menu들에 .add(MenuItem)를 하여 메뉴들을 넣어줌.
      • waitress에 allMenus를 넘겨 VegetarianMenu 출력하는 함수 실행.
      
-   ![image](https://user-images.githubusercontent.com/93365714/230721889-01f7c810-011a-4237-a53b-e122e75c45c5.png
+![image](https://user-images.githubusercontent.com/93365714/230721905-5fc3f916-93b2-4853-9371-5e27dd2e1040.png)
